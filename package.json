@@ -1,7 +1,7 @@
 {
   "name": "gestor-tareas-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/kevintejdiaz/M6-UF3-PF-KTejeda",
+  "homepage": "https://kevintejdiaz.github.io/M6-UF3-PF-KTejeda",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
