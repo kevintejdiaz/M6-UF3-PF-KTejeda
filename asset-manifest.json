@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kevintejdiaz/M6-UF3-PF-KTejeda/static/css/main.1ff6e4a2.css",
+    "main.js": "/kevintejdiaz/M6-UF3-PF-KTejeda/static/js/main.434d7754.js",
+    "index.html": "/kevintejdiaz/M6-UF3-PF-KTejeda/index.html",
+    "main.1ff6e4a2.css.map": "/kevintejdiaz/M6-UF3-PF-KTejeda/static/css/main.1ff6e4a2.css.map",
+    "main.434d7754.js.map": "/kevintejdiaz/M6-UF3-PF-KTejeda/static/js/main.434d7754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff6e4a2.css",
+    "static/js/main.434d7754.js"
+  ]
+}
